@@ -7,3 +7,7 @@ Multer is a **node.js middleware** for handling multipart/form-data, which is pr
 # Demo
 
 ![Multer Front](multer-front.png)
+
+# Multer Coding
+
+![Multer Coding](multer-coding.png)
